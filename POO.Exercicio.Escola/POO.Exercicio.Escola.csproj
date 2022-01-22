@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">anycpu</Platform>
-    <ProjectGuid>{A90952B3-3E59-495B-BD50-3B3361AFA34E}</ProjectGuid>
+    <ProjectGuid>{E5E50D11-C383-4A86-81D3-637B5E72ADEF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>POO</RootNamespace>
-    <AssemblyName>POO</AssemblyName>
+    <RootNamespace>POO.Exercicio.Escola</RootNamespace>
+    <AssemblyName>POO.Exercicio.Escola</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|anycpu' ">
@@ -34,11 +34,8 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Classes\Cidade.cs" />
-    <Compile Include="Classes\Empresa.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Classes\" />
+    <Compile Include="Professor.cs" />
+    <Compile Include="Materia.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

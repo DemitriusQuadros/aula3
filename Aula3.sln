@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Aula3\Arrays.cspr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO", "POO\POO.csproj", "{A90952B3-3E59-495B-BD50-3B3361AFA34E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO.Exercicio.Escola", "POO.Exercicio.Escola\POO.Exercicio.Escola.csproj", "{E5E50D11-C383-4A86-81D3-637B5E72ADEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -21,6 +23,10 @@ Global
 		{A90952B3-3E59-495B-BD50-3B3361AFA34E}.Debug|anycpu.Build.0 = Debug|anycpu
 		{A90952B3-3E59-495B-BD50-3B3361AFA34E}.Release|anycpu.ActiveCfg = Release|anycpu
 		{A90952B3-3E59-495B-BD50-3B3361AFA34E}.Release|anycpu.Build.0 = Release|anycpu
+		{E5E50D11-C383-4A86-81D3-637B5E72ADEF}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E5E50D11-C383-4A86-81D3-637B5E72ADEF}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E5E50D11-C383-4A86-81D3-637B5E72ADEF}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E5E50D11-C383-4A86-81D3-637B5E72ADEF}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
