@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.810.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Aula3\Arrays.csproj", "{F0360FB1-9CF4-43E2-ACF5-E6B3337E4FD2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO", "POO\POO.csproj", "{A90952B3-3E59-495B-BD50-3B3361AFA34E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -15,6 +17,10 @@ Global
 		{F0360FB1-9CF4-43E2-ACF5-E6B3337E4FD2}.Debug|anycpu.Build.0 = Debug|anycpu
 		{F0360FB1-9CF4-43E2-ACF5-E6B3337E4FD2}.Release|anycpu.ActiveCfg = Release|anycpu
 		{F0360FB1-9CF4-43E2-ACF5-E6B3337E4FD2}.Release|anycpu.Build.0 = Release|anycpu
+		{A90952B3-3E59-495B-BD50-3B3361AFA34E}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{A90952B3-3E59-495B-BD50-3B3361AFA34E}.Debug|anycpu.Build.0 = Debug|anycpu
+		{A90952B3-3E59-495B-BD50-3B3361AFA34E}.Release|anycpu.ActiveCfg = Release|anycpu
+		{A90952B3-3E59-495B-BD50-3B3361AFA34E}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
